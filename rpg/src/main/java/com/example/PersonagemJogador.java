@@ -1,3 +1,4 @@
+package com.example;
 class PersonagemJogador extends Entidade {
     private int manaMax, manaAtual;
     public PersonagemJogador(String id, String nome) {

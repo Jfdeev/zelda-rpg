@@ -1,5 +1,7 @@
+package com.example;
 import java.util.ArrayList;
 import java.util.List;
+
 
 class LinkedListCustom<T> {
     private Node<T> head;

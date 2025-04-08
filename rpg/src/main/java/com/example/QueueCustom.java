@@ -1,3 +1,4 @@
+package com.example;
 class QueueCustom<T> {
     private Node<T> front, rear;
     public boolean isEmpty() { return front == null; }

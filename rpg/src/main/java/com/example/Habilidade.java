@@ -1,3 +1,4 @@
+package com.example;
 class Habilidade {
     private String nome;
     private int custoMana;

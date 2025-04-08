@@ -1,3 +1,4 @@
+package com.example;
 abstract class Entidade {
     protected String id;
     protected String nome;
